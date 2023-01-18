@@ -20,7 +20,11 @@ Please complete the following before Saturday, the 21st of January.
 
 3. Go through this [introduction to Github training on Microsoft Learn](https://learn.microsoft.com/en-gb/training/modules/introduction-to-github)
 
+<<<<<<< HEAD
 4. RSVP here :- https://forms.office.com/r/ZLKqXkJ6T9
+=======
+## RSVP :- https://forms.office.com/r/ZLKqXkJ6T9
+>>>>>>> 34a3a15 (Update readme.md)
 
 ## What you will learn
 
